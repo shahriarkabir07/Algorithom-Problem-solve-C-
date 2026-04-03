@@ -1,33 +1,72 @@
-Beecrowd Top 25 Algorithm Problems
+# 🧠 Beecrowd Top 25 Algorithm Problems in C++
 
-Author: Shahriar Kabir
+👨‍💻 Author: Shahriar Kabir
 
-Overview
+This repository contains solutions to the **Top 25 beginner-level algorithm problems** from Beecrowd (formerly URI Online Judge), implemented in **C++**.
 
-This repository contains C++ solutions to the top 25 algorithm problems from Beecrowd, a competitive programming platform. Each solution is designed to tackle a specific problem, demonstrating various algorithmic techniques and problem-solving skills.
+---
 
-Problem Statements
+## 🚀 Purpose
 
-Each problem corresponds to a unique challenge on Beecrowd. While the exact problem statements are not included here, you can find them on the Beecrowd website.
+- Strengthen basic programming concepts
+- Practice problem-solving skills
+- Prepare for competitive programming
+- Help beginners start coding with real problems
 
-Repository Structure
+---
 
-/Beecrowd-Top-25-Algorithms/
-├── README.md                # Repository description and instructions
-├── algorithms/              # Folder containing C++ solution files
-│   ├── problem1.cpp
-│   ├── problem2.cpp
-│   ├── ...
-│   └── problem25.cpp
-├── inputs/                  # Test inputs for the problems
-│   ├── problem1_input.txt
-│   ├── problem2_input.txt
-│   ├── ...
-│   └── problem25_input.txt
-└── outputs/                 # Expected outputs for the problems
-    ├── problem1_output.txt
-    ├── problem2_output.txt
-    ├── ...
-    └── problem25_output.txt
+## 📂 Contents
 
-    
+- 25 C++ solutions
+- Each problem is solved using clean and simple logic
+- Covers topics like:
+  - Input/Output
+  - Arithmetic operations
+  - Conditionals
+  - Basic math
+  - Formatting output
+
+---
+
+## 🛠️ Language Used
+
+- C++
+
+---
+
+## 🎯 Who is this for?
+
+- Beginners in programming
+- Students learning C++
+- Competitive programming starters
+
+---
+
+## 📌 Platform
+
+Problems are taken from **Beecrowd Online Judge**  
+🔗 https://www.beecrowd.com.br/
+
+---
+
+## ⭐ How to Use
+
+1. Clone the repository
+2. Compile any `.cpp` file
+3. Run and test with custom input
+
+---
+
+## 🙌 Contribution
+
+Feel free to fork this repository and add more problems or optimized solutions.
+
+---
+
+## 📧 Contact
+
+Author: **Shahriar Kabir**
+
+---
+
+⭐ Don't forget to star the repository if you find it helpful!
